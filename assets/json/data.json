@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Walter White",
+      "role": "Master Chef",
+      "image": "assets/img/chefs/chefs-1.jpg",
+      "description": "Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate."
+    },
+    {
+      "name": "Sarah Jhonson",
+      "role": "Patissier",
+      "image": "assets/img/chefs/chefs-2.jpg",
+      "description": "Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente."
+    },
+    {
+      "name": "William Anderson",
+      "role": "Cook",
+      "image": "assets/img/chefs/chefs-3.jpg",
+      "description": "Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi."
+    }
+  ]
+  
